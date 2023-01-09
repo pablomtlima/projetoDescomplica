@@ -1,2 +1,9 @@
 Sugestão:
 1- Site de gestão pessoal com to do list, finanças, etc. Lado servidor com interações com APIs que devolvem valor de ações. Port para mobile posteriormente
+2 -Aplicativo de Clima
+Desenvolva um App de clima não muito complexo, o importante é fornecer informações meteorológicas conforme a localização do usuário.
+
+Utilize APIs públicas como:
+
+OpenWeatherMap API
+Climatempo
